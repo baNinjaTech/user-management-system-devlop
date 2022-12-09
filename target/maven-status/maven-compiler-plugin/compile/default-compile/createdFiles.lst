@@ -1,0 +1,13 @@
+com\ums\usermanagementsystem\controller\UserController.class
+com\ums\usermanagementsystem\service\impl\UserServiceImpl.class
+com\ums\usermanagementsystem\dao\AddressDao.class
+com\ums\usermanagementsystem\controller\AddressController.class
+com\ums\usermanagementsystem\service\AddressService.class
+com\ums\usermanagementsystem\vo\AddressVo.class
+com\ums\usermanagementsystem\entity\User.class
+com\ums\usermanagementsystem\vo\UserVo.class
+com\ums\usermanagementsystem\dao\UserDao.class
+com\ums\usermanagementsystem\service\UserService.class
+com\ums\usermanagementsystem\entity\Address.class
+com\ums\usermanagementsystem\Application.class
+com\ums\usermanagementsystem\service\impl\AddressServiceImpl.class
